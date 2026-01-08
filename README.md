@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/assets/kanban.svg" alt="KanbanLite" width="80" height="80" />
+    <img width="1936" height="544" alt="kanban" src="https://github.com/user-attachments/assets/e923591a-5392-4b9d-91bb-893b27d51457" />
     <br />
     <strong>KanbanLite</strong>
   </h1>
