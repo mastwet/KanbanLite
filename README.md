@@ -136,7 +136,7 @@ Build output will be in the `dist` directory.
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x450/f0f2f5/64748b?text=KanbanLite+Interface+Preview" alt="KanbanLite Interface Preview" width="800" />
+  <img width="2240" height="1328" alt="QQ_1767899382858" src="https://github.com/user-attachments/assets/6f87769a-bbd6-4452-a3c5-5d938c2c28c1" />
   <p><em>Main Interface - Simple and Efficient Kanban Management</em></p>
 </div>
 
