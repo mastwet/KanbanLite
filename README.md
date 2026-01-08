@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img width="2730" height="1535" alt="image" src="https://github.com/user-attachments/assets/ec6429fa-6625-40c0-ae5c-ba11b6ac9f2b" />
+    <img width="1249" height="348" alt="image" src="https://github.com/user-attachments/assets/c5059fda-068c-4ae8-8f71-1f58a478b6c8" />
     <br />
     <strong>KanbanLite</strong>
   </h1>
