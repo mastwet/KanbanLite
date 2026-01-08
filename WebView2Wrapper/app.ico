@@ -1,0 +1,7 @@
+# app.ico 占位文件
+
+请将你的应用图标文件重命名为 app.ico 并放置在 WebView2Wrapper 目录下。
+
+如果没有图标，可以:
+1. 使用在线工具生成: https://www.favicon-generator.org/
+2. 或者删除 .csproj 中的 ApplicationIcon 配置行
